@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E0DAQFtBaqZUXo-Uw/learning-public-banner-crop_300_1400/0/1582672211675?e=1688817600&v=beta&t=3AXiFbxHJAqXN_u4JdmuZHKhr5SvNN9t4XD03dYxJJk)]
 <h1 align="center">Hi 👋, I'm Chamika Malshan</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 <img align="right" alt="Cording" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">

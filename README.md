@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikamalshan&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="chamikamalshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamikamalshan&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="chamikamalshan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamikamalshan&show_icons=true&theme=react" alt="chamikamalshan" /></p>
 
